@@ -10,3 +10,5 @@ This study collects tweets about the S&P 500. We use web crawler to search the k
 【Keywords】 Investor sentiment, S&P500, Stock market, Social media sentiment
 
 Written by Cheng W.K.
+
+柯承濰
