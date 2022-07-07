@@ -1,0 +1,10 @@
+The effect of twitter tweets about S&P500
+
+Financial News can bring the investor market and company news, there is also some interview with expert discussing the point of view to the market ,then the investor collect and analysis the data to the information then predict the future of market, and make the strategy to response, however the volume of the transaction or the prices of the goods were produced by investors’ operation, such as Adam Smith’s invisible hand theory, the demand and supply of goods in a free market to reach equilibrium automatically, it is obvious that investors’ habits goes hand in hand with the market trend.
+Investors were not always reasonable, they concluded several deviant behavior, like Loss aversion, herding effect, disposition effect, familiarity bias, which lead market trend by effect investors, and the price have significant effect, therefore it prove the importance of investors’ sentiment.
+
+Collecting information is important before entering the financial market. From (Tetlock, 2007; Tetlock et al., 2008) research, Textual content can bring value in predicting stock price returns, and with today's text-related analysis, large amounts of data can be analyzed quickly. Ranco G et al. (2015) showed that the event research method has quite significant results in using Twitter sentiment to test the impact of the return on the U.S. stock market. Based on the above, we wants to know the impact of twitter tweets and whether investors can predict stock price returns via tweets on twitter
+.
+This study collects tweets about the S&P 500. We use web crawler to search the keyword such as S&P500, #APPL and so on and analysis it with several method to predict the price of it.
+
+【Keywords】 Investor sentiment, S&P500, Stock market, Social media sentiment
