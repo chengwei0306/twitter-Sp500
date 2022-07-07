@@ -8,3 +8,5 @@ Collecting information is important before entering the financial market. From (
 This study collects tweets about the S&P 500. We use web crawler to search the keyword such as S&P500, #APPL and so on and analysis it with several method to predict the price of it.
 
 【Keywords】 Investor sentiment, S&P500, Stock market, Social media sentiment
+
+Written by Cheng W.K.
